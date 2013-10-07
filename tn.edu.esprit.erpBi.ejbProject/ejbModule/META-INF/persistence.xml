@@ -11,6 +11,9 @@
 	<class>tn.edu.esprit.erpBi.ejbProject.manyToManyWithData.Cours</class>
 	<class>tn.edu.esprit.erpBi.ejbProject.manyToManyWithData.MarkPk</class>
 	<class>tn.edu.esprit.erpBi.ejbProject.manyToManyWithData.Mark</class>
+	<class>tn.edu.esprit.erpBi.ejbProject.enheritance.Profile</class>
+	<class>tn.edu.esprit.erpBi.ejbProject.enheritance.Admin</class>
+	<class>tn.edu.esprit.erpBi.ejbProject.enheritance.Visitor</class>
 			
 		<properties>
 			<property name="hibernate.hbm2ddl.auto" value="create" />
